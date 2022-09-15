@@ -105,7 +105,7 @@ export const NewPost: React.FC<Props> = React.memo((props) => {
         <Button
           variant="contained"
           type="submit"
-          style={{ marginTop: 11, marginLeft: 10, width: 500 }}
+          style={{ marginTop: 11, marginLeft: 10, width: '50%' }}
           startIcon={<SaveIcon />}
         >
           Добавить
